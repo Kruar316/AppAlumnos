@@ -1,0 +1,67 @@
+is_global = true
+build_property.EnableAotAnalyzer = 
+build_property.EnableSingleFileAnalyzer = true
+build_property.EnableTrimAnalyzer = false
+build_property.IncludeAllContentForSelfExtract = 
+build_property.TargetFramework = net8.0-android
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = AlumnosApp
+build_property.ProjectDir = C:\Users\ruarc\source\repos\AlumnosApp\AlumnosApp\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.EffectiveAnalysisLevelStyle = 8.0
+build_property.EnableCodeStyleSeverity = 
+
+[C:/Users/ruarc/source/repos/AlumnosApp/AlumnosApp/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = AlumnosApp.App.xaml
+build_metadata.AdditionalFiles.TargetPath = App.xaml
+build_metadata.AdditionalFiles.RelativePath = App.xaml
+
+[C:/Users/ruarc/source/repos/AlumnosApp/AlumnosApp/AppShell.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = AlumnosApp.AppShell.xaml
+build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
+build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
+
+[C:/Users/ruarc/source/repos/AlumnosApp/AlumnosApp/MainPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = AlumnosApp.MainPage.xaml
+build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
+build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
+
+[C:/Users/ruarc/source/repos/AlumnosApp/AlumnosApp/Resources/Styles/Colors.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = AlumnosApp.Resources.Styles.Colors.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
+
+[C:/Users/ruarc/source/repos/AlumnosApp/AlumnosApp/Resources/Styles/Styles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = AlumnosApp.Resources.Styles.Styles.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml
+
+[C:/Users/ruarc/source/repos/AlumnosApp/AlumnosApp/Vistas/CrearAlumno.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = AlumnosApp.Vistas.CrearAlumno.xaml
+build_metadata.AdditionalFiles.TargetPath = Vistas\CrearAlumno.xaml
+build_metadata.AdditionalFiles.RelativePath = Vistas\CrearAlumno.xaml
+
+[C:/Users/ruarc/source/repos/AlumnosApp/AlumnosApp/Vistas/EditarAlumno.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = AlumnosApp.Vistas.EditarAlumno.xaml
+build_metadata.AdditionalFiles.TargetPath = Vistas\EditarAlumno.xaml
+build_metadata.AdditionalFiles.RelativePath = Vistas\EditarAlumno.xaml
+
+[C:/Users/ruarc/source/repos/AlumnosApp/AlumnosApp/Vistas/ListarAlumnos.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = AlumnosApp.Vistas.ListarAlumnos.xaml
+build_metadata.AdditionalFiles.TargetPath = Vistas\ListarAlumnos.xaml
+build_metadata.AdditionalFiles.RelativePath = Vistas\ListarAlumnos.xaml
